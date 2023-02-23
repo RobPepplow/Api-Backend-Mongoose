@@ -1,0 +1,25 @@
+.Create{
+    display: flex;
+    justify-content: center;
+    background-color:beige;
+    text-align: center;
+    width: 500px;
+
+
+}
+
+.formCreate{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    margin: 20px;
+    width: 100%;
+}
+.Createu{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    width: 100%;
+    
+}
+
